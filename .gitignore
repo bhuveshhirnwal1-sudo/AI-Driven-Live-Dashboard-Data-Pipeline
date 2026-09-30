@@ -1,0 +1,19 @@
+# Dependencies
+node_modules/
+venv/
+new_venv/
+__pycache__/
+
+# Database & Secrets
+database.sqlite
+seed_keys.js
+.env
+
+# System
+.DS_Store
+
+# Data & Models
+market_data*.csv
+models/
+*.pkl
+*.keras
